@@ -10,9 +10,9 @@
 
 - Código: UCOM0310
 
-- Periodo: PEL 4 - 2026
+- Periodo: PEL 1 - 2027
 
-- Estudiante: Jonathan Humberto Gómez Salazar
+- Estudiante: Luis Arturo Celleri Carabajo 
 
 - Docente: Ph.D. Jaime Paul Sayago Heredia
 
@@ -86,7 +86,7 @@ Configuración inicial completada.
 
 
 
-Jonathan Humberto Gómez Salazar.
+Luis Arturo Celleri Carabajo.
 
 
 
